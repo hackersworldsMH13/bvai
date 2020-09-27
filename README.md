@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bvai
+$ git clone https://github.com/hackersworldsMH13/bvai.git
 <br/>
 $ pip2 install requests
 <br/>
