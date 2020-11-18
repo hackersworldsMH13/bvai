@@ -36,9 +36,9 @@ $ python2 bvai.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : botolbaba
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : botolbaba
 <br/>
 ....
 <br/>
